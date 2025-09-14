@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppEmployee", "Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppUniversity", "ConsoleAppUniversity\ConsoleAppUniversity.csproj", "{713F888E-1DB8-4725-8460-13CEFEF0F80B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCellphoneAccountsSystem", "ConsoleAppCellphoneAccountsSystem\ConsoleAppCellphoneAccountsSystem.csproj", "{5348D547-934D-4BA5-AE41-C1D32B90E066}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{713F888E-1DB8-4725-8460-13CEFEF0F80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{713F888E-1DB8-4725-8460-13CEFEF0F80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{713F888E-1DB8-4725-8460-13CEFEF0F80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5348D547-934D-4BA5-AE41-C1D32B90E066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5348D547-934D-4BA5-AE41-C1D32B90E066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5348D547-934D-4BA5-AE41-C1D32B90E066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5348D547-934D-4BA5-AE41-C1D32B90E066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

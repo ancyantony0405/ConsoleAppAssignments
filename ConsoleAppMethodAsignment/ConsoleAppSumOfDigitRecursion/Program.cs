@@ -1,4 +1,4 @@
-﻿namespace ConsoleAppIndividualDigits
+﻿namespace ConsoleAppIndividualDigitRecursion
 {
     internal class Program
     {
